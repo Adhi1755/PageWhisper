@@ -105,11 +105,11 @@ Execute all cells in the notebook. You can do this by selecting `Cell` \> `Run A
 
 You will see an "Upload PDF" widget. Click the **"Choose Files"** button and select the PDF document you wish to query.
 
-\<p align="center"\>
-\<img src="[https://via.placeholder.com/600x300?text=Screenshot:+PDF+Upload+Widget](https://www.google.com/search?q=https://via.placeholder.com/600x300%3Ftext%3DScreenshot:%2BPDF%2BUpload%2BWidget)" alt="PDF Upload Widget Placeholder"\>
-\<br\>
-\<em\>Screenshot Placeholder: The PDF upload widget.\</em\>
-\</p\>
+<p align="center"\>
+<img src="assets/UI.png" alt="PDF Upload Widget">
+<br\>
+<em\>Screenshot Placeholder: The PDF upload widget.\</em\>
+</p\>
 
 ### 4\. Wait for Processing
 
