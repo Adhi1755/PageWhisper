@@ -1,4 +1,4 @@
-# PageWhisper: A RAG (Retrieval-Augmented Generation) based system that allows users to upload PDFs and ask intelligent questions, generating context-aware answers using LLaMA3 Model
+# PageWhisper: A RAG (Retrieval-Augmented Generation) based system that allows users to upload PDFs and ask intelligent questions, generating context-aware answers using LLaMA3 Model 🤖
 
 -----
 
@@ -103,12 +103,12 @@ Execute all cells in the notebook. You can do this by selecting `Cell` \> `Run A
 
 ### 3\. Upload Your PDF
 
-You will see an "Upload PDF" widget. Click the **"Choose Files"** button and select the PDF document you wish to query.
+You will see an "Upload" widget. Click the **"Choose Files"** button and select the PDF document you wish to query.
 
 <p align="center"\>
 <img src="assets/UI.png" alt="PDF Upload Widget">
 <br\>
-<em\>Screenshot Placeholder: The PDF upload widget.\</em\>
+<em\>The PDF upload widget.</em\>
 </p\>
 
 ### 4\. Wait for Processing
@@ -118,7 +118,7 @@ After uploading, the notebook will display status updates as it processes the PD
 <p align="center"\>
 <img src="assets/Processing.png" alt="Processing Status Placeholder"\>
 <br\>
-<em\>Screenshot Placeholder: Real-time processing status updates.\</em\>
+<em\>Real-time processing status updates.</em\>
 </p\>
 
 ### 5\. Enter Your Query
@@ -128,7 +128,7 @@ Once processing is complete, a "Enter your query:" input box will appear. Type y
 <p align="center"\>
 <img src="assets/Input.png" alt="Query Input Placeholder"\>
 <br\>
-<em\>Screenshot Placeholder: The query input box.\</em\>
+<em\>The query input box.</em\>
 </p\>
 
 ### 6\. Get Your Answer
@@ -138,7 +138,7 @@ Press Enter or click the "Ask" button (if implemented). The PageWhisper applicat
 <p align="center"\>
 <img src="assets/Output.png" alt="Answer Display Placeholder"\>
 <br\>
-<em\>Screenshot Placeholder: The generated answer displayed.\</em\>
+<em\>The generated answer displayed.\</em\>
 </p\>
 
 -----
