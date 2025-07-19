@@ -1,4 +1,4 @@
-# PageWhisper: Local Document Q\&A with LLaMA3
+# PageWhisper: A RAG (Retrieval-Augmented Generation) based system that allows users to upload PDFs and ask intelligent questions, generating context-aware answers using LLaMA3 Model
 
 -----
 
@@ -115,31 +115,31 @@ You will see an "Upload PDF" widget. Click the **"Choose Files"** button and sel
 
 After uploading, the notebook will display status updates as it processes the PDF (extracting text, chunking, and embedding). This may take a few moments depending on the size of your document.
 
-\<p align="center"\>
-\<img src="[https://via.placeholder.com/600x300?text=Screenshot:+Processing+Status](https://www.google.com/search?q=https://via.placeholder.com/600x300%3Ftext%3DScreenshot:%2BProcessing%2BStatus)" alt="Processing Status Placeholder"\>
-\<br\>
-\<em\>Screenshot Placeholder: Real-time processing status updates.\</em\>
-\</p\>
+<p align="center"\>
+<img src="assets/Processing.png" alt="Processing Status Placeholder"\>
+<br\>
+<em\>Screenshot Placeholder: Real-time processing status updates.\</em\>
+</p\>
 
 ### 5\. Enter Your Query
 
 Once processing is complete, a "Enter your query:" input box will appear. Type your question related to the uploaded document.
 
-\<p align="center"\>
-\<img src="[https://via.placeholder.com/600x300?text=Screenshot:+Query+Input](https://www.google.com/search?q=https://via.placeholder.com/600x300%3Ftext%3DScreenshot:%2BQuery%2BInput)" alt="Query Input Placeholder"\>
-\<br\>
-\<em\>Screenshot Placeholder: The query input box.\</em\>
-\</p\>
+<p align="center"\>
+<img src="assets/Input.png" alt="Query Input Placeholder"\>
+<br\>
+<em\>Screenshot Placeholder: The query input box.\</em\>
+</p\>
 
 ### 6\. Get Your Answer
 
 Press Enter or click the "Ask" button (if implemented). The PageWhisper application will retrieve relevant information from your document and use the local LLaMA3 model to generate a comprehensive answer, which will be displayed below.
 
-\<p align="center"\>
-\<img src="[https://via.placeholder.com/800x400?text=Screenshot:+Answer+Display](https://www.google.com/search?q=https://via.placeholder.com/800x400%3Ftext%3DScreenshot:%2BAnswer%2BDisplay)" alt="Answer Display Placeholder"\>
-\<br\>
-\<em\>Screenshot Placeholder: The generated answer displayed.\</em\>
-\</p\>
+<p align="center"\>
+<img src="assets/Output.png" alt="Answer Display Placeholder"\>
+<br\>
+<em\>Screenshot Placeholder: The generated answer displayed.\</em\>
+</p\>
 
 -----
 
@@ -155,4 +155,4 @@ PageWhisper will then leverage the local LLaMA3 model to analyze the relevant se
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License.
