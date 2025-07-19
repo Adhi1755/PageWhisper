@@ -19,7 +19,7 @@ PageWhisper is a powerful Jupyter Notebook-based application that allows you to 
 ## Technologies Used
 
   * **Jupyter Notebook:** The primary development and execution environment.
-  * **PyMuPDF (fitz):** For efficient PDF text extraction.
+  * **PyPDF (fitz):** For efficient PDF text extraction.
   * **LangChain (text\_splitter):** For intelligent recursive text splitting.
   * **SentenceTransformers:** To generate robust text embeddings (`all-MiniLM-L6-v2`).
   * **FAISS:** For high-performance similarity search and indexing of embeddings.
@@ -59,8 +59,6 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-*(Make sure you have a `requirements.txt` file in your project directory containing the necessary libraries like `PyMuPDF`, `sentence-transformers`, `faiss-cpu`, `ollama`, `ipywidgets`, `langchain-text-splitters`.)*
-
 ### 4\. Set up Ollama and LLaMA3
 
 PageWhisper relies on Ollama to run the LLaMA3 model locally.
@@ -97,7 +95,7 @@ Once Jupyter Notebook is running, follow these steps to use PageWhisper:
 
 ### 1\. Open the Notebook
 
-In the Jupyter interface, open the `PageWhisper.ipynb` notebook.
+In the Jupyter interface, open the `PageWhisper - RAG (Retrieval-Augmented Generation).jpynb` notebook.
 
 ### 2\. Run All Cells
 
